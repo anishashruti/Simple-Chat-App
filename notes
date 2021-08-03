@@ -1,0 +1,12 @@
+npm init -y
+used to create package.json file
+
+ejs
+template engine to render html files in
+
+express.js
+for the backend
+
+socket.io
+
+nodemon
